@@ -94,7 +94,7 @@ HTMLTutorial/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/HTMLTutorial.git
+   git clone https://github.com/arminabdijs/HTML.git
    ```
 2. Open `index.html` from any folder (e.g., `1-tag/index.html`) in a web browser to start the tutorial.
 
@@ -107,7 +107,7 @@ HTMLTutorial/
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements. Ensure new content adheres to the existing structure and includes clear documentation.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](MIT) file for details.
 
 ## Contact
-For questions or feedback, please open an issue or contact the maintainer at [your-email@example.com].
+For questions or feedback, please open an issue or contact the maintainer at [arminabdijs@gmail.com].
